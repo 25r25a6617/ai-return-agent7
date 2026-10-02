@@ -1,0 +1,26 @@
+RETURN POLICY
+
+Electronics:
+Electronics can be returned within 14 days of purchase.
+The product must be in working condition.
+A valid purchase record is required.
+
+Clothing:
+Clothing can be returned within 30 days of purchase.
+The clothing must be unused and have its tags attached.
+
+Books:
+Books can be returned within 14 days of purchase.
+The book must not be damaged.
+
+WARRANTY
+
+Electronics have a 1 year warranty for manufacturing defects.
+
+REFUND
+
+Approved returns can receive a refund to the original payment method.
+
+REPLACEMENT
+
+Customers can request a replacement instead of a refund when the product is eligible for return.
